@@ -2,7 +2,7 @@ name: fetch
 
 on:
   schedule:
-    - cron:  '40 * * * *'
+    - cron:  '40 0 1 * *'
 
 jobs:
   build:
