@@ -2,7 +2,7 @@ name: fetch
 
 on:
   schedule:
-    - cron:  '40 0 1 * *'
+    - cron:  '40 * * * *'
 
 jobs:
   build:
@@ -24,7 +24,6 @@ jobs:
 
     - run: |
         npm install
-        node perform.js
         node clean.js
         git config --local user.email "you@example.com"
         git config --local user.name "duty machine"
