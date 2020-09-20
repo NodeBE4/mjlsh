@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "小陆飞刀：今天，我们要怀念一个人"
+title: "Henry Zheng : 望平街和《申报》馆的故事"
 date: 1989-06-04
-author: 小陆飞刀
-from: http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=4090
+author: 
+from: http://mjlsh.usc.cuhk.edu.hk/Book.aspx?cid=4&tid=4114
 tags: [ 这样走过 ]
 categories: [ 这样走过 ]
 ---
@@ -353,7 +353,7 @@ table.MsoNormalTable
   <b style="">
    <span lang="ZH-CN" style="font-family: 宋体;">
     <font size="5">
-     今天，我们要怀念一个人
+     望平街和《申报》馆的故事
     </font>
    </span>
    <font size="4">
@@ -363,22 +363,25 @@ table.MsoNormalTable
   </b>
  </p>
  <p class="MsoNormal">
-  <b style="">
+  <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
    <font size="4">
-    <span lang="ZH-CN" style="font-family: 宋体;">
+    <b>
      <br/>
-    </span>
+    </b>
    </font>
-  </b>
- </p>
- <p class="MsoNormal">
-  <span lang="ZH-CN" style="font-family: 宋体;">
-   <b style="">
-    <font size="4">
-     －－作者：小陆飞刀
-    </font>
-   </b>
   </span>
+ </p>
+ <p class="MsoNormal">
+  <font size="4">
+   <b>
+    <span lang="ZH-CN" style="font-family: 宋体;">
+     －－作者：
+    </span>
+    Henry Zheng
+   </b>
+  </font>
   <font size="3">
    <o:p>
    </o:p>
@@ -395,7 +398,31 @@ table.MsoNormalTable
    <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
 minor-fareast">
-    今天，我们要怀念一个人。
+    在今天的上海，南起福州路、北到南京东路的山东中路这一段是曾经赫赫有名的望平街，这是一条短短的马路，全长不过百米，但这又是一条名震中外的马路：它的脉搏连着世界的脉搏，中外的动态都从这里发出，传达给广大市民。
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <img alt="09.jpg" border="0" height="444" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/09.jpg" width="400"/>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    昔日望平街
    </span>
    <o:p>
    </o:p>
@@ -412,7 +439,48 @@ minor-fareast">
    <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
 minor-fareast">
-    四十九年的今天，他于南京成贤街的南京图书馆含冤弃世。
+    这条街曾是二十世纪上海报业的发源地，林立四周的报馆、嗅觉敏锐的记者、视角独特的编辑、妙笔生花的文人以及天还没亮就排队等待的报贩都在这条街上进出，这曾是上海滩上一道风景。望平街的历史也是一部现代中国报业的发展史，在它繁盛发达的那些年也正是它最不平静的一段时光。
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <img alt="10.jpg" border="0" height="320" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/10.jpg" width="232"/>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    “啦啦啦，啦啦啦，我是卖报的小行家，大风大雨去卖报，一面跑，一面叫，今天的新闻真正好，七个铜板就买两份报。”聂耳的这首《卖报歌》就是为小报童杨碧君而写的，后者当时就是望平街报童大军的一员。
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    中国现在的报业史可以追溯到清朝戊戌政变的时候。那时全中国只有称为“邸报”的古代报纸。到了清朝末年。这又称为“京报”，“朝报”，专门收集一些官方的文件，如皇帝的圣旨，甚至官员的奏章。当时并没有老百姓发表言论的平台，在戊戌变法之后上海出现了非官方的报纸被称为“新报”，而大多数报馆就开在望平街上。
    </span>
    <o:p>
    </o:p>
@@ -429,758 +497,14 @@ minor-fareast">
    <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
 minor-fareast">
-    上世纪五十年代，当南京城墙面临灭顶之灾的危急时刻，这个人不惜得罪当权者，挺身而出，阻止了南京大规模拆除城墙的运动。南京古城墙两处最有代表性的华彩段落－－石头城和中华门瓮城，最终躲过了被拆毁的厄运，幸存至今。
+    《申报》是上海历史最悠久，出版时间最长的一种中文报纸。其创办人安纳斯特·美查和兄长菲丽得力克·美查本来是茶叶商人，后来想改行，买办陈莘庚见到《字林西报》馆办的中文报纸《上海新报》销路甚好，就劝说他们办报纸。美查兄弟精通中文，就花了一千六百两银子于
    </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="35.jpg" border="0" height="332" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/35.jpg" width="500"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    依山而建的石头城，是南京城墙中最古老的一段，她见证了历代王朝更迭仍屹立不倒，却差点在上世纪五十年代以一毛钱一块城砖的工价被拆卖。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="36.jpg" border="0" height="353" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/36.jpg" width="518"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    同时险遭拆毁厄运的，还有这座宏伟的中华门城堡。她幸得朱偰先生挺身护卫而留存，成为当今世界上保存最完好、结构最复杂的古代瓮城城堡。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="37.jpg" border="0" height="353" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/37.jpg" width="500"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    规模与中华门相当、状若船型的通济门城堡，就没有那样好运了，朱偰先生被打成右派后，这里被夷为平地。（图片选自朱偰《金陵古迹名胜影集》）
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    为此，他付出了惨重的代价。在后来的
-   </span>
-   1957
-   <span lang="ZH-CN" style="font-family:
-宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-宋体;mso-fareast-theme-font:minor-fareast">
-    年反右运动中，他被“引蛇出洞”打成右派，而他保护古城墙的行为，更成为一桩重要罪状，从此备受迫害折磨，终于在文革初期不堪凌辱，含冤离开了这个荒唐的世界。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="38.jpg" border="0" height="481" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/38.jpg" width="350"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    朱偰先生
-   </span>
-   1950
-   <span lang="ZH-CN" style="font-family:宋体;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-宋体;mso-fareast-theme-font:minor-fareast">
-    年在南京紫金山
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    是的，他就是朱偰先生，一位学贯中西的经济学家和历史学家，一位勇敢而有骨气、有良知的中国知识分子，而今天，很多人更愿意称他为——南京古城墙的保护神。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="39.jpg" border="0" height="477" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/39.jpg" width="350"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <br/>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="40.jpg" border="0" height="476" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/40.jpg" width="350"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    朱偰先生著《金陵名胜古迹影集》及《金陵古迹图考》，图文并茂，一图一考，用
-   </span>
-   317
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
-    幅照片系统介绍了南京地区的历史文化遗存。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="41.jpg" border="0" height="503" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/41.jpg" width="350"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    《建康兰陵六朝陵墓图考》，与同期出版的《金陵古迹图考》和《金陵名胜古迹影集》一起，被称为“金陵考古三种”，至今仍是南京文史爱好者探究南京古迹遗存最重要的参考书籍。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="42.jpg" border="0" height="466" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/42.jpg" width="350"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    朱偰先生一生热爱旅游，立志读万卷书，行万里路，他写了大量文采斐然的游记，被称为“新徐霞客”。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="43.jpg" border="0" height="500" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/43.jpg" width="350"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    在担任江苏省文化局副局长期间，朱偰先生为宣传普及文物知识做过大量工作。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="44.jpg" border="0" height="309" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/44.jpg" width="550"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    朱偰先生于上世纪五十年代编写了一批文史普及读物，《南京的名胜古迹》和《苏州的名胜古迹》是其中的代表，虽然只是两本小薄册子，但内容详实，图文并茂，令人爱不释手。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="45.jpg" border="0" height="501" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/45.jpg" width="350"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   1959
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    年，朱偰被免去江苏省文化局副局长职务，调到江苏人民出版社当编辑，常被派到农场劳动，种地、割麦、垒猪圈、拉板车。此时正值所谓“自然灾害”的饥荒时期，终日累饿交集，竟导致他全身浮肿。在孤独寂寞之中，唯一能使他暂时忘却痛苦的就是写作。《大运河的变迁》就成书于这段时间，
-   </span>
-   1961
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
-    年出版时，却不得使用朱偰署名，用的是他的笔名“绍华”。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="46.jpg" border="0" height="492" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/46.jpg" width="350"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    朱偰先生的游记集，近年已被再次整理出版。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="47.jpg" border="0" height="284" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/47.jpg" width="590"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    中华书局
-   </span>
-   2006
-   <span lang="ZH-CN" style="font-family:宋体;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-宋体;mso-fareast-theme-font:minor-fareast">
-    年整理再版的《朱偰金陵考古三种》
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    朱偰先生的事迹，近些年已经广为大众所知了，这里就不再赘述（可参见文末“推荐阅读”）。今天是先生忌日，我向大家推荐一篇他的遗作，以此寄托对这位可敬先贤的怀念。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    这篇文章，其实是朱偰先生在他生命最后一段时间写下的回忆录的一个片段。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="48.jpg" border="0" height="512" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/48.jpg" width="300"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    南京清溪村
-   </span>
-   1
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    号－－朱偰先生故居，当年被多次查抄。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   1966
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    年
-   </span>
-   8
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    月，朱偰先生在清溪村
-   </span>
-   1
-   <span lang="ZH-CN" style="font-family:宋体;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-宋体;mso-fareast-theme-font:minor-fareast">
-    号的住宅被造反派多次查抄，家中被掘地三尺搜查武器和“变天账”，家具被搬空，瓷器被砸烂，古玩字画被抄走，而朱家已捐给国家而未及运走的大批珍贵藏书，竟也被扔到院子里付之一炬，焚烧了整整半天后才被制止。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="49.jpg" border="0" height="447" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/49.jpg" width="500"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    天风海涛楼朱氏印记
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    “天风海涛楼”，是朱偰先生的书斋名，其实这个楼是不存在的。朱偰先生说：“天风海涛楼者，空中楼阁也。”他曾于抗战胜利时发下宏愿，要在故乡海盐的云岫峰上筑一读书楼，“倾听天风海涛，坐对云帆沙鸟，并聚集南北藏书七十万卷，辟为图书馆，以竟先人未成之遗志”。可惜，这座筑在朱偰先生心中可以禁得起大自然天风海涛的书楼，在政治运动的狂风骤雨下却是如此不堪一击。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="50.jpg" border="0" height="366" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/50.jpg" width="550"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    云岫峰也叫鹰窠顶，位于浙江海盐的钱塘江入海口附近，外临大海，内俯南北湖（古名永安湖），兼江海湖山之美，朱偰先生曾发愿筑一书楼于此峰上，这就是“天风海涛楼”之名的缘起。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    在随后更残酷的运动风暴中，朱偰先生被劳改、批斗、游街、勒令写检查交待问题，还经常遭受殴打。就在这样困苦险恶的环境下，朱偰先生仍然保持着写作习惯，在捡来的造反派油印传单纸的背面坚持写日记和回忆录。或许，他是想借青春往事的美好回忆，来冲淡现实的苦难与无情吧。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    但是这样的行为，却又被造反派们视作对“革命行动”的无声顽抗。他的手稿被没收撕毁－－继续写作－－再被没收，如此反复多次，而对他的折磨也愈发变本加厉。当手稿第四次被没收后，朱偰先生终于不堪受辱，他带着满身的伤痕，在
-   </span>
-   1968
+   1872
    <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
     年
    </span>
-   7
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
-    月
-   </span>
-   15
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
-    日愤然辞世。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="51.jpg" border="0" height="330" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/51.jpg" width="550"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    南京成贤街上的南京图书馆老馆。
-   </span>
-   1968
-   <span lang="ZH-CN" style="font-family:
-宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-宋体;mso-fareast-theme-font:minor-fareast">
-    年
-   </span>
-   7
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
-    月
-   </span>
-   15
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
-    日，图书馆大门外墙上贴满了触目惊心的大幅标语。这天清晨，朱偰先生就在这里以惨烈决绝的方式告别了这个荒唐的世界。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    临死前，他悲愤地写下这样的绝笔：“我没有罪，你们这样迫害我，将来历史会证明你们是错误的。”
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    文革以后，朱偰先生被平反，一部分被查抄的手稿也被发还，这些回忆录文字才被重新发现并整理出来。据朱先生的女儿朱元春说，这些稿纸原来纸质很差，平反后发还时更是残破不堪，但字迹工整仍清晰可辨。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="52.jpg" border="0" height="463" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/52.jpg" width="380"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    《孤云汗漫－－朱偰纪念文集》学林出版社
-   </span>
-   2007
-   <span lang="ZH-CN" style="font-family:
-宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-宋体;mso-fareast-theme-font:minor-fareast">
-    年出版，收录了朱偰先生的部分遗稿和日记。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    这篇题为《船上与朱自清联句》的文章，记述了朱偰先生年轻时代的一段往事：
-   </span>
-   1932
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
-    年夏，在欧洲留学归国的海轮上，朱偰与朱自清结伴同行，两人一路以联句赋诗为乐，留下一段文坛佳话。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    这段故事，在朱自清和朱偰两人各自已发表的著作中都有所叙述，后来的南京作家叶兆言也在文章中多次提及，而整个过程记述最为精彩而详细的，仍莫过于朱偰先生自己写下的这一篇回忆文字了。
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <img alt="53.jpg" border="0" height="489" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/53.jpg" width="350"/>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    《朱自清全集》江苏教育出版社
-   </span>
-   1997
-   <span lang="ZH-CN" style="font-family:
-宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-宋体;mso-fareast-theme-font:minor-fareast">
-    年出版，其中第九册为日记编。朱自清在
-   </span>
-   1932
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
-    年
-   </span>
-   7
+   4
    <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
     月
@@ -1188,7 +512,7 @@ minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast"
    30
    <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
-    日写道：“与朱偰君一同赋诗，朱得句敏于我，诗成，皆出彼手。”这次以文会友，朱自清显然是认了输的。
+    日创办了《申报》。申报最早为双日刊，不久就改成日报，销路果然不错，于是美查又创办了点石斋印书局。
    </span>
    <o:p>
    </o:p>
@@ -1201,10 +525,379 @@ minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast"
   </o:p>
  </p>
  <p class="MsoNormal">
+  <font size="3">
+   <img alt="11.jpg" border="0" height="485" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/11.jpg" width="400"/>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    报馆旧影
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
   <o:p>
    <font size="3">
-    <img alt="54.jpg" border="0" height="441" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/54.jpg" width="350"/>
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    《申报》馆原来在山东路
+   </span>
+   197
+   <span lang="ZH-CN" style="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast">
+    号。
+   </span>
+   1882
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    年迁到汉口路礼拜堂对面。
+   </span>
+   1907
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    年美查回国去了，把《申报》出让给了上海当时报馆的华人经理席裕福，后者以
+   </span>
+   7.5
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    万元将全部产业买下，把报馆迁回了山东路。五年之后席又把报纸转让给了史量才。
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <img alt="12.jpg" border="0" height="357" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/12.jpg" width="268"/>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    史量才（
+   </span>
+   1880
+   <span lang="ZH-CN" style="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast">
+    －
+   </span>
+   1934
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    ）
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    史量才
+   </span>
+   1880
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    年出生于江苏江宁。早年随开药方的父亲到上海来闯荡。他十九岁考中秀才，但看到科举制度毫无用处，就改学新学。他曾经投身于报业、学校和铁路。父亲的言传身教培养了他刚正不阿、光明磊落的品性。
+   </span>
+   1912
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    年，
+   </span>
+   32
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    岁的史量才接管了《申报》，立下了“不偏不倚、言论自由、民众喉舌”的办报方针。
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    位于铜仁路的史量才故居，今天已经成为市政府翻译机构的办公室。但是在当年，史量才就是在这里酝酿出一个个重大的决策。
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <img alt="13.jpg" border="0" height="375" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/13.jpg" width="500"/>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    他首先改进了印刷上日本买了但是轮转印刷机。每小时可以印刷五六千份。申报管着身房屋原来是一幢两层砖木结构，到
+   </span>
+   1916
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    年到
+   </span>
+   1918
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    年重新改建为一幢五层的大楼，为《申报》的现代化奠定了基础。报馆从美国进口的最新印刷机。《申报》日销量近五万份，一小时就可以印刷完毕。他还收买自创刊起全部的《申报》、创办《申报月刊》、《申报年鉴》、举办流通图书馆和补习学校等公用事业。
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <img alt="14.jpg" border="0" height="300" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/14.jpg" width="400"/>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <img alt="15.jpg" border="0" height="512" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/15.jpg" width="380"/>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    《申报》全国各地的代销处
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    九一八事变后，《申报》又一改政治上保守谨慎的作风，积极宣传抗日救国。更加趋向于爱国民主。被宋庆龄、蔡元培，杨杏佛等法事主持的中国民权保障同盟的活动作报导，逐渐引起蒋介石及国民党权贵们对史量才《申报》的不满。
+   </span>
+   1931
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    年
+   </span>
+   11
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    月
+   </span>
+   29
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    日，蒋介石一度下野，离开南京前夕，秘密下令枪决了著名的“第三党”领袖邓演达。一个月后，宋庆龄得知这一消息，在悲愤交加之中起草了《国民党不再是一个革命集团》的宣言，指着鼻子大骂蒋介石，《申报》刊登了这一宣言、
+   </span>
+   1932
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    年
+   </span>
+   6-7
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    月又发表社论《三论剿匪与造匪》。同年报纸又邀请了留法归来的黎烈文主编副刊《自由谈》，请鲁迅、茅盾、巴金、郑振铎、陈望道、叶圣陶等进步作家撰稿，因此深受广大市民的欢迎，在上海影响很大。《申报》的销量迅速增长：
+   </span>
+   1912
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    年每天销量是七千份，
+   </span>
+   1915
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    年增加到
+   </span>
+   10
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    万份，
+   </span>
+   1928
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    年达到
+   </span>
+   14.3
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    万份。
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    因为其历史悠久，收入又很广，上海人都称为“老申报”，甚至将新闻纸都成为“申报纸”。
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    史良才主持的《申报》旗帜鲜明的站在了抗日、民主、进步力量的一边。由于史量才以“手下有一百万读者》有力回敬了蒋介石”手上有一百万兵”的言论，蒋介石被惹恼了。
+   </span>
+   1934
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    年
+   </span>
+   10
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    月史量才在浙江海宁被国民党的特务暗杀。从
+   </span>
+   1912
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    年接管《申报》到
+   </span>
+   1934
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    年遇害，他苦心经营了二十二年，铸就了报业发展史上的一座丰碑。他以生命的代价实现了自己“人有人格、报有报格、国有国格”的做人准则。
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <img alt="16.jpg" border="0" height="222" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/16.jpg" width="400"/>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    蒋介石曾有意拉拢史量才。图为
+   </span>
+   1931
+   <span lang="ZH-CN" style="font-family:
+宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast">
+    年南京召开各界领袖会合影，史量才居于右四，旁边是蒋介石。
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
     <br/>
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+    <img alt="17.jpg" border="0" height="262" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/17.jpg" width="400"/>
    </font>
   </o:p>
  </p>
@@ -1216,13 +909,7 @@ minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast"
    <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
 minor-fareast">
-    中华书局
-   </span>
-   2009
-   <span lang="ZH-CN" style="font-family:宋体;
-mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-宋体;mso-fareast-theme-font:minor-fareast">
-    年出版的《天风海涛楼札记》，收录了朱偰先生的一些札记性文字。在第一卷《回首当年》之十二节《归国》中，他写道：“航海东归，凡二十五日，始又归至上海。海上与朱佩弦（朱自清）联句，颇不寂寞。”书中另一篇文章《朱自清》也提及此事：“同舟东归，海程漫漫，在地中海上，尝共事联句，以为消遣……”。
+    史量才遇害时乘坐的汽车
    </span>
    <o:p>
    </o:p>
@@ -1235,108 +922,231 @@ mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-
   </o:p>
  </p>
  <p class="MsoNormal">
-  <img alt="55.jpg" border="0" height="431" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4090/55.jpg" style="font-size: medium;" width="350"/>
+  <img alt="18.jpg" border="0" height="283" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/18.jpg" style="font-size: medium;" width="400"/>
  </p>
  <p class="MsoNormal">
   <font size="3">
    <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
 minor-fareast">
-    《烟雨秦淮》叶兆言著，南方日报出版社
+    报道史量才遇害的特刊
    </span>
-   2002
-   <span lang="ZH-CN" style="font-family:
-宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-宋体;mso-fareast-theme-font:minor-fareast">
-    年出版，其中《朱偰先生》一文也提及朱偰与朱自清联句赋诗的雅事。叶兆言在他的另一篇文章《朱氏父子》（载于《万象》杂志
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    八一三淞沪抗战后上海沦陷。《申报》虽然在租界中，但日军强占了国民党的新闻检查所，租借当局也对报纸的内容加以限制，《申报》只能迁往汉口了，后来上海的抗日报纸都挂了洋商招牌，所以报纸就于
    </span>
-   2005
+   1938
    <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
-    年第
+    年返回上海。
    </span>
-   4
+   10
    <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
 minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
-    期）中，则对朱氏的家学渊源大为叹服，他评论说：“朱自清与朱偰斗古诗，甘拜下风，说白了就是童子功不如人，毕竟他没有朱希祖这样大师级的父亲。”
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    遥想朱偰先生当年，尚是年方廿五的翩翩少年，却在两场联句斗诗中力压年长他十岁且早已在文坛成名的朱自清先生，旷世风华，惊才绝艳，直令今日的追思者心驰神往，倾慕不已！
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <o:p>
-   <font size="3">
-   </font>
-  </o:p>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    小陆飞刀
-   </span>
-   <o:p>
-   </o:p>
-  </font>
- </p>
- <p class="MsoNormal">
-  <font size="3">
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    首发于
-   </span>
-   2017
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    年
-   </span>
-   7
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
     月
    </span>
-   15
-   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
-Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
-minor-fareast">
-    日
+   10
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    号以美商哥伦比亚公司的名义复刊。
    </span>
    <o:p>
    </o:p>
   </font>
  </p>
  <p class="MsoNormal">
-  <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <img alt="19.jpg" border="0" height="466" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/19.jpg" width="350"/>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   1941
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
 Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
 minor-fareast">
-   <font size="3">
-    朱偰先生辞世四十九周年之际
-   </font>
-  </span>
+    年英文《字林西报》编印的上海号名录（
+   </span>
+   Shanghai Directory)
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    上，《申报》馆位于汉口路
+   </span>
+   309
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    号，以美商哥伦比亚出版公司的名义运营
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
   <o:p>
+   <font size="3">
+   </font>
   </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    太平洋战争后《申报》被日本海军报道部接管，成为一个汉奸报纸。抗战胜利后，国民党中宣部控制申报，令其停刊，然后再由潘公展等组成管理委员会加入官股。名义上官商合办，实际上成为国民党的官方报纸。
+   </span>
+   1949
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    年上海解放后这申报实施了军管。没收官股，保留私人资本，《申报》大楼交给《解放日报》社使用。
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    《申报》馆在今天的山东中路汉口路口，大门朝东北方向、汉口路和山东路上都有边门，是五层钢筋混凝土结构。占地面积七百三十六平方米，建筑面积三千六百八十平方米，有一百多个房间。这是一幢早期的近代式建筑，外墙檐口下部和壁柱都有花纹，带有新古典主义装饰风格。
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <img alt="20.jpg" border="0" height="374" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/20.jpg" width="500"/>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    大楼现状
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    二层挑出阳台，栏杆美观，阳台座下又有装饰性的图案，三四楼没有阳台，窗框是长方形的。当年的底层是印刷厂，有排字房、纸版房。二楼是营业厅，平顶带有弧拱，并有石膏花纹，三楼是经理室、董事会、餐厅、会客室。四五楼是图书馆，校对室、照相间，编辑室分布在二三四层都有。
+   </span>
+   1934
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast">
+    年报馆又向南面扩建，也是五层，将印刷厂等移去，外层用水泥粉刷，磨石子地坪。
+   </span>
+   <span lang="ZH-CN">
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <img alt="21.jpg" border="0" height="506" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/21.jpg" width="380"/>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   1949
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    年上海解放后这申报实施了军管。没收官股，保留私人资本，《申报》大楼交给《解放日报》社使用。如今底楼改为了一家时尚餐馆。
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    光阴荏苒，一个世纪的风云过去了。现在的上海地图上已经找不到以“望平街”为名的这条马路了。但是一堆发黄的旧报纸，褪色的老照片见证了望平街的辉煌与精彩。今天站在《申报馆》门口，我们可以感受到中国现代新闻业的丰富内涵和它的厚重历史。
+   </span>
+   <o:p>
+   </o:p>
+  </font>
+ </p>
+ <p class="MsoNormal">
+  <o:p>
+   <font size="3">
+   </font>
+  </o:p>
+ </p>
+ <p class="MsoNormal">
+  <font size="3">
+   <span lang="ZH-CN" style="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast">
+    建筑物现今照片由郑超摄影
+   </span>
+   <o:p>
+   </o:p>
+  </font>
  </p>
  <p class="MsoNormal">
   <o:p>
@@ -1352,7 +1162,7 @@ Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fare
 minor-fareast">
    <b>
     <font size="4">
-     转自《飞刀看书》
+     转自《中国历史建筑保护网》
     </font>
    </b>
   </span>
