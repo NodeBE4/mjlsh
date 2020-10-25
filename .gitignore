@@ -14,4 +14,6 @@ Gemfile.lock
 *.py
 *.sh
 _posts_sample
+.env
 onetime.js
+tmp

@@ -4,26 +4,19 @@ let querystring = require('querystring')
 let urlMod = require('url')
 let URL = urlMod.URL
 
-let feedxUrls = {
-  '不吐不快的有货君': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UUL_6y6pug2cYoYCYvXDbgHA',
-  '想做教育家的Klaus': 'https://www.youtube.com/feeds/videos.xml?playlist_id=UUZ4NwvuGYgFyjnRRJekdnHw',
-  '書齋夜話': 'https://www.youtube.com/feeds/videos.xml?playlist_id=UUhRE0pMeij_O5FqWrSKBF-Q',
-  '温相说党史': 'https://www.youtube.com/feeds/videos.xml?playlist_id=UUGtvPQxpuRrXeryEWxQkAkA',
-  '羅文好公民':'https://www.youtube.com/feeds/videos.xml?playlist_id=UUr25xDGzTxeic8W_6mIZbug',
-  '柴Sean你說':'https://www.youtube.com/feeds/videos.xml?playlist_id=UUV6AJqWMOIYnfbsK8niM55Q',
-  '阳光卫视': 'http://www.youtube.com/feeds/videos.xml?playlist_id=PL1Flk3ukUUwYdm_N5gJj4b6t5hdQzbnNd',
-  '方舟子': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UUgTxdmY7L0I5MKWrrf0Ejtg',
-  '崔永元': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UUAq_xQV8pJ2Q_KOszzaYPBg',
-  '李永乐': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UUSs4A6HYKmHA2MG_0z-F0xw',
-}
+
+let jsonText = fs.readFileSync('./subs.json');
+let feedxUrls = JSON.parse(jsonText);
+let content = JSON.stringify(feedxUrls, undefined, 4);
+fs.writeFileSync(`./subs.json`, content)
 
 async function fetchArticles(site) {
 
   let articles
-  if (feedxUrls[site]) {
-    articles = await fetchFeedx(site, feedxUrls[site])
-//  } else if (site == '中国数字时代') {
-//    articles = await fetchCDT()
+  if (site['url']) {
+    articles = await fetchFeedx(site['site'], site['url'])
+  } else if (site == '中国数字时代') {
+    articles = await fetchCDT()
   }
 
   articles.sort((x, y) => x.pubDate - y.pubDate)
@@ -55,12 +48,19 @@ async function fetchFeedx(site, url) {
     }else{
       link = item.guid
     }
+    let author = site
+    if (item['author']){
+      author = item.author
+    }else if (item['dc:creator']){
+      author = item['dc:creator']
+    }
     return {
       title: item.title.replace(/[\x00-\x1F\x7F-\x9F]/g, ""),
       content: content.replace(/[\x00-\x1F\x7F-\x9F]/g, ""),
       link: link,
       pubDate: Date.parse(item.pubDate),
-      site: site
+      site: site,
+      author: author
     }
   })
 }
@@ -83,7 +83,8 @@ async function fetchCDT() {
       link: item.link,
       guid: item.guid,
       pubDate: Date.parse(item.pubDate),
-      site: '中国数字时代'
+      site: '中国数字时代',
+      author: '中国数字时代'
     }
   })
 }
@@ -108,7 +109,8 @@ async function performCDT() {
 }
 
 async function perform() {
-  let sites = Object.keys(feedxUrls)
+  // let sites = Object.keys(feedxUrls)
+  let sites = feedxUrls
 
   sites.map(site => {
     performSite(site)
@@ -123,8 +125,6 @@ async function performSite(site) {
     let siteFolder = `./_posts`
     fs.mkdirSync(siteFolder, { recursive: true })
 
-    let files = fs.readdirSync(siteFolder)
-
     let articles = await fetchArticles(site)
 
     articles.map(a => {
@@ -133,7 +133,7 @@ async function performSite(site) {
 
     // generateList(site)
   } catch(e) {
-    console.log([site, e])
+    console.log([site['site'], e])
   }
 }
 
@@ -151,7 +151,7 @@ function generateArticle(article) {
 layout: post
 title: "${titletext}"
 date: ${dateString}
-author: ${article.site}
+author: ${article.author}
 from: ${articlelink}
 tags: [ ${article.site} ]
 categories: [ ${article.site} ]
