@@ -526,7 +526,7 @@ minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast"
 </p>
 <p class="MsoNormal">
 <font size="3">
-<img alt="11.jpg" border="0" height="485" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/11.jpg" width="400"/>
+<img alt="11.jpg" border="0" height="485" src="https://i.imgur.com/1T3F0Q0.jpeg" width="400"/>
 <o:p>
 </o:p>
 </font>
@@ -588,7 +588,7 @@ minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast"
 </p>
 <p class="MsoNormal">
 <font size="3">
-<img alt="12.jpg" border="0" height="357" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/12.jpg" width="268"/>
+<img alt="12.jpg" border="0" height="357" src="https://i.imgur.com/X5AVbXq.jpeg" width="268"/>
 <o:p>
 </o:p>
 </font>
@@ -673,7 +673,7 @@ minor-fareast">
 </p>
 <p class="MsoNormal">
 <font size="3">
-<img alt="13.jpg" border="0" height="375" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/13.jpg" width="500"/>
+<img alt="13.jpg" border="0" height="375" src="https://i.imgur.com/89HONYB.jpg" width="500"/>
 <o:p>
 </o:p>
 </font>
@@ -713,14 +713,14 @@ minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast"
 </p>
 <p class="MsoNormal">
 <font size="3">
-<img alt="14.jpg" border="0" height="300" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/14.jpg" width="400"/>
+<img alt="14.jpg" border="0" height="300" src="https://i.imgur.com/5ZzMHem.jpg" width="400"/>
 <o:p>
 </o:p>
 </font>
 </p>
 <p class="MsoNormal">
 <font size="3">
-<img alt="15.jpg" border="0" height="512" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/15.jpg" width="380"/>
+<img alt="15.jpg" border="0" height="512" src="https://i.imgur.com/cuHOBeL.jpg" width="380"/>
 <o:p>
 </o:p>
 </font>
@@ -865,7 +865,7 @@ minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast"
 </p>
 <p class="MsoNormal">
 <font size="3">
-<img alt="16.jpg" border="0" height="222" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/16.jpg" width="400"/>
+<img alt="16.jpg" border="0" height="222" src="https://i.imgur.com/Smoy0s8.jpg" width="400"/>
 <o:p>
 </o:p>
 </font>
@@ -897,7 +897,7 @@ minor-fareast">
 <p class="MsoNormal">
 <o:p>
 <font size="3">
-<img alt="17.jpg" border="0" height="262" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/17.jpg" width="400"/>
+<img alt="17.jpg" border="0" height="262" src="https://i.imgur.com/kcwm4Tj.jpg" width="400"/>
 </font>
 </o:p>
 </p>
@@ -922,7 +922,7 @@ minor-fareast">
 </o:p>
 </p>
 <p class="MsoNormal">
-<img alt="18.jpg" border="0" height="283" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/18.jpg" style="font-size: medium;" width="400"/>
+<img alt="18.jpg" border="0" height="283" src="https://i.imgur.com/uTuvgqa.jpeg" style="font-size: medium;" width="400"/>
 </p>
 <p class="MsoNormal">
 <font size="3">
@@ -975,7 +975,7 @@ minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast"
 </p>
 <p class="MsoNormal">
 <font size="3">
-<img alt="19.jpg" border="0" height="466" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/19.jpg" width="350"/>
+<img alt="19.jpg" border="0" height="466" src="https://i.imgur.com/80Fb8EG.jpg" width="350"/>
 <o:p>
 </o:p>
 </font>
@@ -1049,7 +1049,7 @@ minor-fareast">
 </p>
 <p class="MsoNormal">
 <font size="3">
-<img alt="20.jpg" border="0" height="374" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/20.jpg" width="500"/>
+<img alt="20.jpg" border="0" height="374" src="https://i.imgur.com/46OhZ8W.jpeg" width="500"/>
 <o:p>
 </o:p>
 </font>
@@ -1097,7 +1097,7 @@ minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast"
 </p>
 <p class="MsoNormal">
 <font size="3">
-<img alt="21.jpg" border="0" height="506" src="http://mjlsh.usc.cuhk.edu.hk/medias/contents/4114/21.jpg" width="380"/>
+<img alt="21.jpg" border="0" height="506" src="https://i.imgur.com/VrPQyZA.jpeg" width="380"/>
 <o:p>
 </o:p>
 </font>
