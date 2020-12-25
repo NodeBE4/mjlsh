@@ -1,8 +1,8 @@
 name: fetch
 
-on:
-  schedule:
-    - cron:  '40 * * * *'
+# on:
+#   schedule:
+#     - cron:  '40 * * * *'
 
 jobs:
   build:
